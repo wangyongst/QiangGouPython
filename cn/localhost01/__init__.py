@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # 账号参数
-taobao_username = u"淘宝登录账号"
-taobao_password = "淘宝登录密码"
+taobao_username = u"18119445588"
+taobao_password = "wang.1986"
 csdn_username = "csdn_vip账号"
 csdn_password = "csdn登录密码"
 mail_username = "邮箱登录账号"
